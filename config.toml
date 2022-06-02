@@ -1,4 +1,4 @@
-baseURL = "barbarasmidrkalova.cz"
+baseURL = "https://barbarasmidrkalova.cz"
 languageCode = "cs-cz"
 paginate = 6
 theme = "portio"
