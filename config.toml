@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://asistentka.github.io/"
 languageCode = "cs-cz"
 paginate = 6
 theme = "portio"
