@@ -21,9 +21,10 @@
 }
 
 .btn-light {
-  color: $primary;
+  color: $secondary;
   &:hover {
     color: $primary;
+    background: white; 
   }
 }
 
