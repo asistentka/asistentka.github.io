@@ -3,9 +3,18 @@ enable: true
 topTitle: S čím vám pomohu
 title: "## Služby"
 service:
-- content: "#### Copywriting \n- prodejní texty\n- tematické články\n- obsah pro e-shop
-    i web\n- bannery\n- PPC reklama\n- sociální sítě: Facebook, Instagram, LinkedIn\n-
-    blogy\n"
+- content: |
+    #### Kreativní Copywriting
+    Mám za sebou prokazatelné zkušenosti s psaním reklamních a marketingových textů. Odevzdávám kreativní a jedinečný pohled s ohledem na klíčová slova a Tone of Voice dané firmy.
+
+    Jsem k dispozici, pokud potřebujete:
+    - Copywriting pro blog
+    - PR články
+    - Kreativní obsah pro e-shop i web
+    - Bannery
+    - Texty pro PPC reklamu
+    - Obsah pro sociální sítě
+    - Popisky na e-shop
   image: images/service/ui-ux.svg
 - content: |
     #### Content Marketing
