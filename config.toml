@@ -4,10 +4,6 @@ paginate = 6
 theme = "portio"
 title = "Barbara Šmidrkalová"
 [[menu.main]]
-name = "Reference"
-url = "#reference"
-weight = 3
-[[menu.main]]
 name = "Služby"
 url = "#service"
 weight = 1
