@@ -3,18 +3,11 @@ enable: true
 topTitle: Jsem tu pro vás
 title: "## Jak vám mohu pomoci?"
 service:
-- content: |
-    #### Kreativní Copywriting
-    Mám za sebou prokazatelné zkušenosti s psaním reklamních a marketingových textů. Odevzdávám kreativní a jedinečný pohled s ohledem na klíčová slova a Tone of Voice dané firmy.
-
-    Jsem k dispozici, pokud potřebujete:
-    - Copywriting pro blog
-    - PR články
-    - Kreativní obsah pro e-shop i web
-    - Bannery
-    - Texty pro PPC reklamu
-    - Obsah pro sociální sítě
-    - Popisky na e-shop
+- content: "#### Kreativní Copywriting\nMám za sebou prokazatelné zkušenosti s psaním
+    reklamních a marketingových textů. Odevzdávám kreativní a jedinečný pohled s ohledem
+    na klíčová slova a Tone of Voice dané firmy. \nJsem k dispozici, pokud potřebujete:\n-
+    Copywriting pro blog\n- PR články\n- Kreativní obsah pro e-shop i web\n- Bannery\n-
+    Texty pro PPC reklamu\n- Obsah pro sociální sítě\n- Popisky na e-shop\n"
   image: images/service/ui-ux.svg
 - content: |
     #### Content Marketing
