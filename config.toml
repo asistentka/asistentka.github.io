@@ -29,7 +29,7 @@ email = "barbara.smidrkalova@gmail.com"
 openingHours = "Open from 10am to 6pm (close at 5pm Sundays)"
 phone = "+420 605 161 153"
 [params.footerJumbo]
-bigTitle = "Propojme se a dejme firemní komunikaci grády a jednoznačný směr."
+bigTitle = "Propojme se a dejme firemní komunikaci grády a jasný směr."
 button = "Kontaktujte mě..."
 smallTitle = "Jak vám mohu pomoci?"
 [params.map]
