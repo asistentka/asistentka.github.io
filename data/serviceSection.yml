@@ -7,13 +7,12 @@ service:
     i web\n- bannery\n- PPC reklama\n- sociální sítě: Facebook, Instagram, LinkedIn\n-
     blogy\n"
   image: images/service/ui-ux.svg
-- content: "#### Back Office \n- vedení administrativy\n- přepis textů\n- tvorba prezentací\n-
-    komunikace se zákazníky\n- uspořádání firemních eventů\n- zařízení firemních dárků
-    včetně grafiky\n"
-  image: images/service/web.svg
 - content: |
-    #### Marketing
-    - správa a vytváření obsahu pro sociální sítě
-    - email marketing (newslettery)
-    - zpracování grafických podkladů
+    #### Content Marketing
+    Pokud potřebujete šířit důvěryhodný firemní obsah atraktivní formou a zvýšit tak prodeje či návštěvnost vašich komunikačních kanálů, pomohu vám:
+
+    - Obsah pro sociální sítě (LinkedIn, Facebook, Instagram)
+    - Email Marketing (kreativní a cílené newslettery s výsledky)
+    - Zpracování grafiky (pracuji s programem Canva a InDesign)
+    - Obsahové zpracování PPC reklam
   image: images/service/creative.svg
