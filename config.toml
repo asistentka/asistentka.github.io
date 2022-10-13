@@ -3,16 +3,18 @@ languageCode = "cs-cz"
 paginate = 6
 theme = "portio"
 title = "Barbara Šmidrkalová"
-[menu]
-sitemap = []
 [[menu.main]]
-name = "Kontakt"
-url = "#contact"
-weight = 2
+name = "Reference"
+url = "#reference"
+weight = 3
 [[menu.main]]
 name = "Služby"
 url = "#service"
 weight = 1
+[[menu.main]]
+name = "Kontakt"
+url = "#contact"
+weight = 2
 [params]
 blogPageURL = "blog"
 contactLink = "contact"
