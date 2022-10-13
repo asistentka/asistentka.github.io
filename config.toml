@@ -31,7 +31,7 @@ phone = "+420 605 161 153"
 [params.footerJumbo]
 bigTitle = "Propojme se a dejme firemní komunikaci jasný a úderný cíl."
 button = "Domluvme si schůzku"
-smallTitle = "Jak vám mohu pomoci?"
+smallTitle = "Společně to zvládneme"
 [params.map]
 APIkey = "YOUR GOOGLE MAP API"
 latitude = "23.7783741"
