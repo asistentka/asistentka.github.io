@@ -13,7 +13,6 @@ sections:
 - type: document
   path: data/testimonialSection.yml
   label: Doporučení
-  match: "**/*"
 - type: document
   path: config.toml
   label: Config File
