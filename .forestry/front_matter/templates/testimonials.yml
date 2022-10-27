@@ -4,26 +4,28 @@ hide_body: true
 fields:
 - type: boolean
   name: enable
-  label: enable
+  label: Publikovat online
 - type: text
   name: topTitle
-  label: topTitle
+  label: Malý nadpis sekce
 - type: text
   name: title
-  label: title
+  label: Hlavní nadpis
 - type: field_group_list
   name: testimonial
-  label: testimonial
+  label: Doporučení
   fields:
   - type: text
     name: name
-    label: name
+    label: Jméno
   - type: text
     name: company
-    label: company
+    label: Společnost
   - type: textarea
     name: comment
-    label: comment
+    label: Text doporučení
   - type: text
     name: star
-    label: star
+    label: Hvězdy
+    description: Lze udělit 1–5 hvězd, které se zobrazí u doporučení. Pokud se nemá
+      zobrazit, ponechte prázdné.
