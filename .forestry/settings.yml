@@ -11,6 +11,10 @@ sections:
   path: data/serviceSection.yml
   label: Services
 - type: document
+  path: data/testimonialSection.yml
+  label: Doporučení
+  match: "**/*"
+- type: document
   path: config.toml
   label: Config File
 upload_dir: static/images
