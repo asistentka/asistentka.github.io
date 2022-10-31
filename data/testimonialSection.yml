@@ -1,16 +1,18 @@
 ---
 enable: true
 topTitle: Doporučení
-title: >
-  ## Co o mne říkají ostatní?
-
+title: "## Jaká jsem?"
 testimonial:
-
-  - name: Hana Terberová,
-    company: šéfredaktorka webu www.zivotavyziva.cz
-    comment: S Bárou se mi spolupracuje opravdu skvěle. Dodržuje termíny, komunikace je s ní příjemná a celkově jsem s její prací moc spokojená. Určitě bych ji doporučila. Děkuji, Baru! 
-    star: 
-  - name: Aneta Růžičková,
-    company: První novinová společnost, a. s.
-    comment: S Barbarou jsem spolupracovala téměř dva roky a byla to příjemná zkušenost. Mít vedle sebe někoho, na koho se můžete stoprocentně spolehnout, je k nezaplacení. Dokáže si udělat pořádek i ve zdánlivě neuspořádatelném chaosu a jednat s lidmi. K tomu jí nechybí dobrá nálada, o to bylo na pracovišti veseleji.
-    star: 
+- name: Hana Terberová,
+  company: šéfredaktorka webu www.zivotavyziva.cz
+  comment: S Bárou se mi spolupracuje opravdu skvěle. Dodržuje termíny, komunikace
+    je s ní příjemná a celkově jsem s její prací moc spokojená. Určitě bych ji doporučila.
+    Děkuji, Baru!
+  star: 
+- name: Aneta Růžičková,
+  company: První novinová společnost, a. s.
+  comment: S Barbarou jsem spolupracovala téměř dva roky a byla to příjemná zkušenost.
+    Mít vedle sebe někoho, na koho se můžete stoprocentně spolehnout, je k nezaplacení.
+    Dokáže si udělat pořádek, mít ve věcech řád a jednat s lidmi. K tomu jí nechybí
+    dobrá nálada, o to bylo na pracovišti veseleji.
+  star: 
