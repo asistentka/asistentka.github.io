@@ -3,6 +3,14 @@ enable: true
 topTitle: Doporučení
 title: "## Jaká jsem?"
 testimonial:
+- name: Veronika Holčáková
+  company: MURA, s.r.o.
+  comment: Potřebovali jsme vylepšit pozici našeho webu v rámci SEO i placených kampaní.
+    Naše stránka www.mura.cz měla málo textového obsahu a Barbara nám s tímto významně
+    pomohla. Díky jejímu copy a textům do blogu se významně zlepšilo naše skóre ve
+    vyhledávání. Ve spolupráci s Barbarou budeme rádi pokračovat. Má skvělý přístup
+    a cit pro slova. Přesně pochopila naše potřeby
+  star: ''
 - name: Hana Terberová,
   company: šéfredaktorka webu www.zivotavyziva.cz
   comment: S Bárou se mi spolupracuje opravdu skvěle. Dodržuje termíny, komunikace
