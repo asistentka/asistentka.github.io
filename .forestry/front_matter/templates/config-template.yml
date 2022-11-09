@@ -6,6 +6,12 @@ fields:
   name: baseURL
   label: baseURL
   hidden: false
+- name: description
+  type: text
+  config:
+    required: false
+  label: Description tag
+  description: Tag description v hlavičce webu
 - type: text
   name: languageCode
   label: languageCode
