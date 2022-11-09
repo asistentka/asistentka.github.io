@@ -25,7 +25,7 @@
 					<div class="text-dark footer__cta_content">
 						{{ $footerJ := .Site.Params.footerJumbo }}
 						<span>{{ $footerJ.smallTitle }}</span>
-						<h2 class="mb-0">{{ $footerJ.BigTitle }}</h2>
+						<h2 class="mb-0 text-responsive">{{ $footerJ.BigTitle }}</h2>
 					</div>
 					<div class="footer__cta_action">
 						<a class="btn btn-light btn-zoom" href="{{ .Site.Params.contactLink | absURL }}">{{ $footerJ.button }}</a>

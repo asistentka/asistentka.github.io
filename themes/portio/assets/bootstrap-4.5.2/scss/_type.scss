@@ -1,5 +1,9 @@
 // stylelint-disable declaration-no-important, selector-list-comma-newline-after
 
+.text-responsive {
+  font-size: calc(100% + 1vw + 1vh);
+}
+
 //
 // Headings
 //
