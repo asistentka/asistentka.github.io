@@ -1,4 +1,5 @@
 baseURL = "https://barbarasmidrkalova.cz"
+description = ""
 languageCode = "cs-cz"
 paginate = 6
 theme = "portio"
@@ -24,7 +25,7 @@ googleAnalytics = ""
 logo = "images/logo.svg"
 [params.address]
 addressLine1 = ""
-addressLine2 = "Litoměřice"
+addressLine2 = "Litoměřice / online odkudkoli"
 email = "barbara.smidrkalova@gmail.com"
 openingHours = "Open from 10am to 6pm (close at 5pm Sundays)"
 phone = "+420 605 161 153"
