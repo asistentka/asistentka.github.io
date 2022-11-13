@@ -31,7 +31,7 @@ openingHours = "Open from 10am to 6pm (close at 5pm Sundays)"
 phone = "+420 605 161 153"
 [params.footerJumbo]
 bigTitle = "Propojme se a dejme firemní komunikaci jasný cíl."
-button = "Domluvme si schůzku"
+button = "Domluvme si online schůzku"
 smallTitle = "Společně to zvládneme"
 [params.map]
 APIkey = "YOUR GOOGLE MAP API"
