@@ -2,7 +2,9 @@
 enable: true
 topTitle: O mně
 title: Barbara. Copywriter & Content Marketing Specialist
-content: "Svižné a nevšední texty, které prodávají \na sednou vaší značce jako ulité."
+content: |-
+  Svižný a nevšední obsah, který prodává
+  a sedne vaší značce jako ulitý.
 button1Name: Domluvme si schůzku →
 button2Name: Download CV
 button1Target: contact
