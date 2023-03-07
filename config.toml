@@ -18,7 +18,7 @@ weight = 2
 blogPageURL = "blog"
 contactLink = "contact"
 copyright = "© Barbara Šmidrkalová"
-description = "Barbara Šmidrkalová, vaše všestranná virtuální asistentka. Pomohu vám mít uvolněné ruce i mysl."
+description = "Barbara Šmidrkalová, Copywriter & Content Marketing Specialist."
 footerLogo = "images/site-navigation/logo-b.png"
 formspreeURL = "YOUR FORMSPREE URL"
 googleAnalytics = ""
@@ -40,7 +40,7 @@ longitude = "90.3746808"
 pinImage = "images/pin.png"
 [[params.social]]
 icon = "fa-linkedin-square"
-url = "https://cz.linkedin.com/in/%C5%A1midrkalov%C3%A1-barbara"
+url = "https://cz.linkedin.com/in/smidrkalova"
 weight = 2
 [[params.social-false]]
 icon = "fa-facebook-official"
