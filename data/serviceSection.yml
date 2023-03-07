@@ -12,8 +12,8 @@ service:
     #### Content Marketing
     Pokud potřebujete šířit důvěryhodný firemní obsah atraktivní formou a zvýšit tak prodeje či návštěvnost vašich komunikačních kanálů.
 
-    → Obsah pro sociální sítě
-    → Email Marketing
-    → Zpracování grafiky
-    → Obsahové zpracování PPC reklam
+    - obsah pro sociální sítě
+    - Email Marketing
+    - zpracování grafiky
+    - obsahové zpracování PPC reklam
   image: images/service/creative.svg
