@@ -14,11 +14,8 @@ collections:
         fields:
           - {label: Hlavní nadpis, name: title, widget: string}
           
-      - label: "Konfigurace webu"
-        name: "config"
-        file: "/config.toml"
+      - label: "O mně"
+        name: "about"
+        file: "data/aboutSection.yml"
         fields:
-          - {label: Adresa řádek 1, name: addressLine1, widget: string}
-          - {label: Adresa řádek 2, name: addressLine2, widget: string}
-          - {label: Email, name: email, widget: string}
-          - {label: Telefon, name: phone, widget: string}
+          - {label: Obsah boxu, name: content, widget: string}
