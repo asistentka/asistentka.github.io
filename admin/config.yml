@@ -25,9 +25,3 @@ collections:
         file: "config.toml"
         fields:
           - {label: Title celého webu, name: title, widget: string}
-        - label: "Parametry"
-          name: "params"
-          widget: "object"
-          collapsed: "true"
-          fields:
-            - {label: Form spree URL, name: formspreeURL, widget: string} 
