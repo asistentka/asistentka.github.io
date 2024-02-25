@@ -19,3 +19,9 @@ collections:
         file: "data/aboutSection.yml"
         fields:
           - {label: Obsah boxu, name: content, widget: string}
+
+     - label: "Nastavení webu"
+        name: "config"
+        file: "config.toml"
+        fields:
+          - {label: Title celého webu, name: title, widget: string}
