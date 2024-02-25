@@ -24,4 +24,15 @@ collections:
         name: "config"
         file: "config.toml"
         fields:
-          - {label: Title celého webu, name: title, widget: string}
+          - label: "Einstellungen"
+            name: "params"
+            widget: "object"
+            collapsed: "true"
+            fields:
+              - label: "Popis webu"
+                label_singlar: "Popisek webu"
+                name: "description"
+                widget: "list"
+                collpased: "true"
+                fields:
+                  - {label: description, name: description, widget: string}
