@@ -1,56 +1,71 @@
-baseURL = "https://barbarasmidrkalova.cz"
-description = ""
 languageCode = "cs-cz"
-paginate = 6
 theme = "portio"
+addressLine1 = "Praha a Litoměřice."
+addressLine2 = "+ online kdekoli"
+phone = "barbara.smidrkalova@gmail.com"
+paginate = 6
 title = "Barbara Šmidrkalová"
-[menu]
-sitemap = []
-[[menu.main]]
-name = "Služby"
-url = "#service"
-weight = 1
-[[menu.main]]
-name = "Kontakt"
-url = "#contact"
-weight = 2
+email = "+420 605 161 153"
+description = ""
+baseURL = "https://barbarasmidrkalova.cz"
+
 [params]
-blogPageURL = "blog"
-contactLink = "contact"
-copyright = "© Barbara Šmidrkalová"
-description = "Barbara Šmidrkalová, Copywriter & Content Marketing Specialist."
 footerLogo = "images/site-navigation/logo-b.png"
-formspreeURL = "YOUR FORMSPREE URL"
-googleAnalytics = ""
+copyright = "© Barbara Šmidrkalová"
 logo = "images/logo.svg"
+googleAnalytics = ""
+contactLink = "contact"
+description = "Barbara Šmidrkalová, Copywriter & Content Marketing Specialist."
+formspreeURL = "YOUR FORMSPREE URL"
+blogPageURL = "blog"
+
+[[params.social-false]]
+icon = "fa-facebook-official"
+url = "https://www.facebook.com/"
+weight = 1
+
+[[params.social-false]]
+icon = "fa-pinterest-square"
+url = "https://www.pinterest.com/"
+weight = 3
+
+[[params.social-false]]
+icon = "fa-twitter-square"
+url = "https://twitter.com/"
+weight = 4
+
+[[params.social]]
+icon = "fa-linkedin-square"
+url = "https://cz.linkedin.com/in/smidrkalova"
+weight = 2
+
+[params.footerJumbo]
+bigTitle = "Propojme se a dejme firemní komunikaci jasný cíl."
+button = "Domluvme si online schůzku →"
+smallTitle = "Společně to zvládneme"
+
 [params.address]
 addressLine1 = "Praha a Litoměřice"
 addressLine2 = " + online kdekoli"
 email = "barbara.smidrkalova@gmail.com"
 openingHours = "Open from 10am to 6pm (close at 5pm Sundays)"
 phone = "+420 605 161 153"
-[params.footerJumbo]
-bigTitle = "Propojme se a dejme firemní komunikaci jasný cíl."
-button = "Domluvme si online schůzku →"
-smallTitle = "Společně to zvládneme"
+
 [params.map]
 APIkey = "YOUR GOOGLE MAP API"
 latitude = "23.7783741"
 longitude = "90.3746808"
 pinImage = "images/pin.png"
-[[params.social]]
-icon = "fa-linkedin-square"
-url = "https://cz.linkedin.com/in/smidrkalova"
-weight = 2
-[[params.social-false]]
-icon = "fa-facebook-official"
-url = "https://www.facebook.com/"
+
+[menu]
+sitemap = []
+
+[[menu.main]]
+name = "Služby"
+url = "#service"
 weight = 1
-[[params.social-false]]
-icon = "fa-pinterest-square"
-url = "https://www.pinterest.com/"
-weight = 3
-[[params.social-false]]
-icon = "fa-twitter-square"
-url = "https://twitter.com/"
-weight = 4
+
+[[menu.main]]
+name = "Kontakt"
+url = "#contact"
+weight = 2
