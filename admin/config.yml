@@ -20,7 +20,7 @@ collections:
         fields:
           - {label: Obsah boxu, name: content, widget: string}
 
-     - label: "Nastavení webu"
+      - label: "Nastavení webu"
         name: "config"
         file: "config.toml"
         fields:
