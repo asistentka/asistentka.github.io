@@ -14,8 +14,8 @@ collections:
         fields:
           - {label: Hlavní nadpis, name: title, widget: string}
           
-      - label: "Kontakt"
-        name: "kontakt"
+      - label: "Kontakt2"
+        name: "kontakt2"
         file: "config.toml"
         fields:
           - {label: Adresa řádek 1, name: addressLine1, widget: string}
