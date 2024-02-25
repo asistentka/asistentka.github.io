@@ -6,11 +6,10 @@ public_folder: /images
 
 collections:
   - label: "Sekce"
-    name: "Sekce"
+    name: "Kontakt"
     files:
-      - label: "Úvod"
-        name: "uvod"
-        file: "data/aboutsection.yml"
+      - label: "Kontakt"
+        name: "kontakt"
+        file: "content/contact/_index.md"
         fields:
-          - {label: title, name: title, widget: string}
-          - {label: content, name: content, widget: markdown}
+          - {label: Hlavní nadpis, name: title, widget: string}
