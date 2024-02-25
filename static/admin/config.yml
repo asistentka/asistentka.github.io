@@ -5,12 +5,12 @@ media_folder: static/images
 public_folder: /images
 
 collections:
-  - label: "data"
-    name: "data"
+  - label: "Sekce"
+    name: "Sekce"
     files:
-      - label: "About Page"
-        name: "about"
+      - label: "Úvod"
+        name: "uvod"
         file: "data/aboutsection.yml"
         fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Text v boxu, name: content, widget: markdown}
+          - {label: title, name: title, widget: string}
+          - {label: content, name: content, widget: markdown}
