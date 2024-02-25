@@ -19,20 +19,3 @@ collections:
         file: "data/aboutSection.yml"
         fields:
           - {label: Obsah boxu, name: content, widget: string}
-
-      - label: "Nastavení webu"
-        name: "config"
-        file: "config.toml"
-        fields:
-          - label: "Einstellungen"
-            name: "params"
-            widget: "object"
-            collapsed: true
-            fields:
-              - label: "Popis webu"
-                label_singlar: "Popisek webu"
-                name: "description"
-                widget: "list"
-                collpased: true
-                fields:
-                  - {label: description, name: description, widget: string}
