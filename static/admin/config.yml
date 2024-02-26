@@ -21,11 +21,11 @@ collections:
           - {label: Hlavní nadpis, name: title, widget: string}
           - {label: Obsah boxu, name: content, widget: string}
           - {label: Text tlačítka boxu, name: button1Name, widget: string}
-            - label: "Hlavní fotografie"
-              name: "thumbnail"
-              widget: "image"
-              choose_url: true
-              default: "/images/baraa.jpg"
-              media_library:
-                config:
-                  multiple: true
+          - label: "Hlavní fotografie"
+            name: "thumbnail"
+            widget: "image"
+            choose_url: true
+            default: "/images/baraa.jpg"
+            media_library:
+              config:
+                multiple: false
