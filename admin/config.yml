@@ -14,20 +14,20 @@ collections:
         fields:
           - {label: Hlavní nadpis, name: title, widget: string}
           
-      - label: "O mně"
-        name: "about"
-        file: "data/aboutSection.yml"
-        fields:
-          - {label: Obsah boxu, name: content, widget: string}
+  - label: "O mně"
+    name: "about"
+    file: "data/aboutSection.yml"
+    fields:
+      - {label: Obsah boxu, name: content, widget: string}
 
-      - label: "Site Config"
-        name: "config"
-        file: "config.toml"
-        fields:
-          - {label: Meta Title, name: title, widget: string}
-        name: "params"
-        widget: "object"
-        fields: 
-          - label: "footer logo"
-            name: "footerLogo"
-            widget: "string"
+  - label: "Site Config"
+    name: "config"
+    file: "config.toml"
+    fields:
+      - {label: Meta Title, name: title, widget: string}
+    name: "params"
+    widget: "object"
+    fields: 
+      - label: "footer logo"
+        name: "footerLogo"
+        widget: "string"
