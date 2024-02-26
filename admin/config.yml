@@ -28,6 +28,4 @@ collections:
           name: "params"
           widget: "object"
           fields: 
-            - label: "footer logo"
-              name: "footerLogo"
-              widget: "string" 
+            - {label: footer logo, name: footerLogo, widget: string}
