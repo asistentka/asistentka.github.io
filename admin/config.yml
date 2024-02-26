@@ -19,3 +19,12 @@ collections:
         file: "data/aboutSection.yml"
         fields:
           - {label: Obsah boxu, name: content, widget: string}
+
+      - label: "Konfigurace"
+        file: "config.toml"
+        name: "params"
+        widget: "object"
+        fields: 
+          - label: "footer logo"
+            name: "footerLogo"
+            widget: "string"
