@@ -23,9 +23,9 @@ collections:
       - label: "Config"
         name: "config"
         file: "config.toml"
-          name: "params"
-          widget: "object"
-          fields: 
-            - label: "footer logo"
-              name: "footerLogo"
-              widget: "string"
+        name: "params"
+        widget: "object"
+        fields: 
+          - label: "footer logo"
+            name: "footerLogo"
+            widget: "string"
