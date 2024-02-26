@@ -25,7 +25,7 @@ collections:
         file: "config.toml"
         fields:
           - {label: Meta Title, name: title, widget: string}
-          name: "params" (name of the Object fields is nested under)
+          name: "params"
           widget: "object"
           fields: 
             - label: "footer logo"
